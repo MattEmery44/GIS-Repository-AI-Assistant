@@ -1,0 +1,8 @@
+{
+  "name": "Southern California Transit Database (NTD)",
+  "description": "Interactive monthly analytics dashboard and AI chatbot tracking monthly UPT, VRM, and VRH statistics for Southern California transit agencies.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
